@@ -1,9 +1,9 @@
 Overview
 -----------------------------------
 
-magento.php - main file, you will need to run it in browser or with crontab
-states.php – list of US states, we need this for conversion from “Illinois” to “IL”
-settings.php – file with your settings (account credentials for ChannelAdvisor, e-mail,etc..);
+magento.php - main file, you will need to run it in browser or with crontab<br/>
+states.php – list of US states, we need this for conversion from “Illinois” to “IL”<br/>
+settings.php – file with your settings (account credentials for ChannelAdvisor, e-mail,etc..);<br/>
 
 Details
 -----------------------------------
